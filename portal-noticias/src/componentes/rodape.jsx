@@ -4,7 +4,10 @@ function Rodape() {
 
   return (
     <>
-      <h1>Rodapé</h1>
+    <div className='rd'>
+    <h1>Rodapé</h1>
+    </div>
+      
     </>
   )
 }
